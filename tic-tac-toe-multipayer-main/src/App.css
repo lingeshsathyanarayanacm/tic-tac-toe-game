@@ -1,0 +1,8 @@
+body {
+  background: radial-gradient(
+    circle farthest-corner at center top,
+    #071021,
+    #19324a
+  );
+  color: #fafafa;
+}
